@@ -147,7 +147,7 @@ calculate_metrics<-function(){
 #Create gui
 gui<-tktoplevel()
 tkwm.title(gui,"PCR Assist")
-tkwm.geometry(gui,"240x430+100+100")
+tkwm.geometry(gui,"250x430+100+100")
 
 frm<-tkframe(gui)
 tkgrid(frm,padx=20,column=1,row=1,columnspan=2)
