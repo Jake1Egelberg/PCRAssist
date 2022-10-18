@@ -1,11 +1,11 @@
 # PCRAssist
 Automatically calculate PCR volumes
 
-INSTALLATION
-1) Download PCRAssist-main and extract to your harddrive (C:/)
+**INSTALLATION**
+_1) Download PCRAssist-main and extract to your harddrive (C:/)_
 
-2) Open INSTALL_R.bat to automatically install the R-4.2.1 setup.exe (if this does not work, you may need to open the .bat file in a text editor and update the R version it is set to install)
+_2) Open INSTALL_R.bat to automatically install the R-4.2.1 setup.exe_ (if this does not work, you may need to open the .bat file in a text editor and update the R version it is set to install)
 
-3) Install R-4.2.1 to the PCRAssist-main folder
+_3) Install R-4.2.1 to the PCRAssist-main folder_
 
-3) Run PCRAssist.bat, the initial launch may take a few seconds as necessary packages install.
+_4) Run PCRAssist.bat, the initial launch may take a few seconds as necessary packages install._
